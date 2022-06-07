@@ -53,7 +53,7 @@ const App = () => {
                 </View>
             </Pressable>
                 <View style={style.content}>
-                    <Text style={style.Text}>───────── OU ───────── </Text>
+                    <Text style={style.Text}>───────── ou ───────── </Text>
                 </View>
                 <Pressable onPress={handlePressToLinkedin}>
                 <View style={style.button}>
